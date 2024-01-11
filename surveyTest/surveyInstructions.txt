@@ -1,0 +1,19 @@
+{Survey App Instructions}
+
+The Three Decent Coders (Group 6)
+Darrell Abubo - 219502301
+Mel Meneses - 219555408
+Michael Alvarez - 219838515
+
+Step 1: Run the "surveyDriver" class. This will display the Main Menu.
+
+Step 2a: Click "Premade Surveys" to play pre-made surveys.
+Step 2b: Click "Create a Survey" to create and play your own survey.
+
+Step 3: For premade surveys, for each question select an answer and click submit. You can change your answer
+however many times you like, as long as your final answer is chosen before it is submitted.
+
+Step 4: For creating surveys, fill in the empty text fields with answers to questions, the furthest left 
+column is to be used for custom survey questions. Erase the text in the "title" and "thank you message" text fields
+and replace them with your own. Once this step is completed, press the "save and play" button to play the
+custom survey.
