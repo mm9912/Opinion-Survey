@@ -1,9 +1,7 @@
 {Survey App Instructions}
 
-The Three Decent Coders (Group 6)
-Darrell Abubo - 219502301
-Mel Meneses - 219555408
-Michael Alvarez - 219838515
+Program Creators:
+Darrell Abubo, Mel Meneses & Michael Alvarez 
 
 Step 1: Run the "surveyDriver" class. This will display the Main Menu.
 
