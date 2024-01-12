@@ -19,7 +19,7 @@ import javax.swing.*;
  */
 
 /**
- * @author melfe
+ * @author Mel Meneses
  *
  */
 public class survey2_2v2 implements surveyInt, ActionListener{
