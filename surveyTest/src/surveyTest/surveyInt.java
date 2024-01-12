@@ -13,9 +13,9 @@ import javax.swing.JPanel;
 //The Three Decent Coders
 //Survey Application
 
-//Darrell Abubo - 219502301
-//Mel Meneses - 219555408
-//Michael Alvarez - 219838515
+//Darrell Abubo
+//Mel Meneses
+//Michael Alvarez
 //November 16th, 2023
 
 //interface for premade survey
